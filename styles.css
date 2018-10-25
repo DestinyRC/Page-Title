@@ -1,0 +1,25 @@
+h1{ 
+font-family: "indie flower";
+ color:black;
+}
+h2{
+    font-family:"stylesheet";
+color:white;
+}
+body{
+    background-color:white;
+}
+.tiny{
+    background-color:red;
+    color:white;
+}
+.big{
+    background:orange;
+}
+.yesss{ 
+    background-color:pink;
+color:blue;
+}
+.hey{ 
+    background-color:yellow;
+}
