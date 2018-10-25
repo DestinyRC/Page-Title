@@ -1,14 +1,3 @@
-h1{ 
-font-family: "indie flower";
- color:black;
-}
-h2{
-    font-family:"stylesheet";
-color:white;
-}
-body{
-    background-color:white;
-}
 .tiny{
     background-color:red;
     color:white;
@@ -22,4 +11,22 @@ color:blue;
 }
 .hey{ 
     background-color:yellow;
+    color:green;
+}
+p{
+    font-size:20px;
+    color:purple;
+    background-color:white;
+}
+h1{ 
+font-family: "indie flower";
+}
+p{
+    font-family: "indie flower";
+}
+h2{
+    font-family:"stylesheet";
+}
+body{
+    background-color:navy;
 }
